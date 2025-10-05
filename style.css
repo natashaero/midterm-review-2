@@ -1,0 +1,41 @@
+#content {
+    margin: 0 auto;
+    width: 900px;
+}
+
+#h1 { font-size:larger;
+    
+}
+#byline {
+    font-family: Verdana, sans-serif;
+    font-size: 14px;
+        font-style: italic;
+}
+#headline {
+    font-family: Verdana,sans-serif;
+    font-size:large;
+}
+#body{
+    font-family:Georgia,serif;
+    font-size: 13px;
+}
+p {
+    margin: 0 auto;
+}
+blockquote {
+    font: 90px "Times New Roman", sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    color: blue;
+    display: block;
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    margin-left: 50px;
+    margin-right: 34px;
+    
+}
+
+img {
+    width: 100%;
+}
